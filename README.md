@@ -18,3 +18,17 @@
 |**text** / 描述|Battlecry : Set a hero's remaining Health to 15.|Destroy all minions. Draw a card for each.
 |**text_cn** / 中文描述|战吼： 使一个英雄的剩余生命值成为15。|消灭所有随从。每消灭一个随从，便抽一张牌。
 |**cardset** / 卡牌集|Classic|Whispers of the Old Gods
+
+##卡牌集 (SET)
+|SET|中文名|卡牌数量
+|----|----|-----
+|Whispers of the Old Gods|古神的低语|134
+|The League of Explorers|冒险家协会|45
+|The Grand Tournament|冠军的试炼|132
+|Blackrock Mountain|黑石山的火焰|31
+|Goblins vs Gnomes|地精大战侏儒|123 
+|Naxxramas|纳克萨玛斯|30
+|Promo|纪念|2
+|Reward|奖励|2
+|Basic|基本|133
+|Classic|经典|245
