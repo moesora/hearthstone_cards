@@ -1,5 +1,5 @@
-#炉石传说 ( Hearthstone: Heroes of Warcraft ) 卡牌数据
-======
+炉石传说 ( Hearthstone: Heroes of Warcraft ) 卡牌数据
+=====
 数据抓取自 PWN 和 17173，已更新至 **古神的低语(WOG)** 版本，共计 877 张可收集卡牌的数据。
 
 卡牌数据：
