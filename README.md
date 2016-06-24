@@ -28,7 +28,7 @@
 |The Grand Tournament|冠军的试炼|132
 |Blackrock Mountain|黑石山的火焰|31
 |Goblins vs Gnomes|地精大战侏儒|123 
-|Curse of Naxxramas|纳克萨玛斯|30
+|Curse of Naxxramas|纳克萨玛斯的诅咒|30
 |Promo|纪念|2
 |Reward|奖励|2
 |Basic|基本|133
